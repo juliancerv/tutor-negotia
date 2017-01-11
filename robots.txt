@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /css/
+Allow: /fonts/
+Disallow: /encuesta/
+Disallow: /firmas/
+Allow: /img/
+Allow: /inc/
+Allow: /js/

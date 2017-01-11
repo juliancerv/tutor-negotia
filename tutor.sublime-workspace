@@ -1,0 +1,635 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"E",
+				"Exo2Regular"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"co",
+				"contacto"
+			],
+			[
+				"BORDER",
+				"border-top"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"O",
+				"Oxygen"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"tra",
+				"text-transform"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"Di",
+				"DIN"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/tutor.styl",
+			"settings":
+			{
+				"buffer_size": 5445,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "servicios/due/index.php",
+			"settings":
+			{
+				"buffer_size": 7470,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "servicios/due/evaluacion-identificacion.php",
+			"settings":
+			{
+				"buffer_size": 6425,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "servicios/due/diligencia-debida-investigacion.php",
+			"settings":
+			{
+				"buffer_size": 6519,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "servicios/due/diligencia-debida-mejorada.php",
+			"settings":
+			{
+				"buffer_size": 6899,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/julian/Desktop/tutor",
+		"/Users/julian/Desktop/tutor/css",
+		"/Users/julian/Desktop/tutor/servicios",
+		"/Users/julian/Desktop/tutor/servicios/due"
+	],
+	"file_history":
+	[
+		"/Users/julian/Desktop/tutor/index.php",
+		"/Users/julian/Desktop/tutor/como.php",
+		"/Users/julian/Desktop/tutor/quienes.php",
+		"/Users/julian/Desktop/tutor/que.php",
+		"/Users/julian/Desktop/tutor/css/tutor.styl",
+		"/Users/julian/Desktop/tutor/servicios/empresarial/asesoria-empresariales.php",
+		"/Users/julian/Desktop/tutor/servicios/empresarial/diligencia-comercial.php",
+		"/Users/julian/Desktop/tutor/servicios/empresarial/entrada-mercado.php",
+		"/Users/julian/Desktop/tutor/servicios/empresarial/index.php",
+		"/Users/julian/Desktop/tutor/servicios/empresarial/inteligencia-competidores.php",
+		"/Users/julian/Desktop/tutor/servicios/empresarial/investigacion-fondos-covertura.php",
+		"/Users/julian/Desktop/tutor/servicios/investigaciones/asistencia-litigios.php",
+		"/Users/julian/Desktop/tutor/servicios/investigaciones/busqueda-recuperacion.php",
+		"/Users/julian/Desktop/tutor/servicios/investigaciones/ciberneticas.php",
+		"/Users/julian/Desktop/tutor/servicios/investigaciones/conflictos-comerciales.php",
+		"/Users/julian/Desktop/tutor/servicios/investigaciones/controles.php",
+		"/Users/julian/Desktop/tutor/servicios/investigaciones/financieras.php",
+		"/Users/julian/Desktop/tutor/servicios/investigaciones/index.php",
+		"/Users/julian/Desktop/tutor/servicios/investigaciones/internas.php",
+		"/Users/julian/Desktop/tutor/servicios/investigaciones/litigios-conflictos.php",
+		"/Users/julian/Desktop/tutor/servicios/investigaciones/reglamentarias.php",
+		"/Users/julian/Desktop/tutor/servicios/investigaciones/uso-propiedad-intelectual.php",
+		"/Users/julian/Desktop/tutor/servicios/cibernetica/gestion-de-respuesta.php",
+		"/Users/julian/Desktop/tutor/servicios/cibernetica/index.php",
+		"/Users/julian/Desktop/tutor/servicios/cibernetica/informatica-forense.php",
+		"/Users/julian/Desktop/tutor/servicios/fisica/adquisicion-sistemas.php",
+		"/Users/julian/Desktop/tutor/servicios/fisica/asistencia-implementacion.php",
+		"/Users/julian/Desktop/tutor/servicios/fisica/auditorias-seguridad-externas.php",
+		"/Users/julian/Desktop/tutor/servicios/fisica/consultoria-seguridad.php",
+		"/Users/julian/Desktop/tutor/servicios/fisica/desarrollo-normas.php",
+		"/Users/julian/Desktop/tutor/servicios/fisica/desarrollo-procedimientos.php",
+		"/Users/julian/Desktop/tutor/servicios/fisica/evaluacion-riesgo.php",
+		"/Users/julian/Desktop/tutor/servicios/fisica/evaluaciones-amenazas-ejecutivos.php",
+		"/Users/julian/Desktop/tutor/servicios/fisica/evaluaciones-amenazas-instalaciones.php",
+		"/Users/julian/Desktop/tutor/servicios/fisica/evaluaciones-necesidades.php",
+		"/Users/julian/Desktop/tutor/servicios/fisica/evaluaciones-vulnerabilidad.php",
+		"/Users/julian/Desktop/tutor/servicios/fisica/index.php",
+		"/Users/julian/Desktop/tutor/servicios/fisica/ingenieria-diseno-seguridad.php",
+		"/Users/julian/Desktop/tutor/servicios/fisica/ingenieria-diseno.php",
+		"/Users/julian/Desktop/tutor/servicios/fisica/planificacion-maestra.php",
+		"/Users/julian/Desktop/tutor/servicios/fisica/planificacion-sistemas.php",
+		"/Users/julian/Desktop/tutor/servicios/fisica/revision-diseno-seguridad.php",
+		"/Users/julian/Desktop/tutor/servicios/gestion/index.php",
+		"/Users/julian/Desktop/tutor/inc/footer_common.php",
+		"/Users/julian/Desktop/tutor/servicios/fisica/Copia de evaluaciones-amenazas-instalaciones.php",
+		"/Users/julian/Desktop/tutor/servicios/empresarial/Inteligencia-competidores.php",
+		"/Users/julian/Desktop/tutor/servicios/empresarial/financieras.php",
+		"/Users/julian/Desktop/tutor/investigaciones.php",
+		"/Users/julian/Desktop/tutor/contacto.php",
+		"/Users/julian/Desktop/tutor/mandar.php",
+		"/Users/julian/Desktop/tutor/inc/header.php",
+		"/Users/julian/Desktop/tutor/servicios/investigaciones/uso-propieda-intelectual.php",
+		"/Users/julian/Desktop/tutor/servicios/investigaciones/investigaciones-ciberneticas.php",
+		"/Users/julian/Desktop/tutor/servicios/investigaciones/investigaciones-financieras.php",
+		"/Users/julian/Desktop/tutor/servicios/investigaciones/investigaciones-internas.php",
+		"/Users/julian/Desktop/tutor/inc/footer.php",
+		"/Users/julian/Downloads/Exo2-SemiBold/styles.css",
+		"/Users/julian/Desktop/tutor/css/tutor.css",
+		"/Users/julian/Downloads/ef_conv_zip_qg6eQMCCSMZZAE6kyrHAZQeF/Exo2Regular.css",
+		"/Users/julian/web_ulq/videoteca.php",
+		"/Applications/MAMP/bin/phpMyAdmin/config.inc.php",
+		"/Users/julian/Desktop/tutor/README.md",
+		"/Applications/MAMP/tmp/mysql/mysql.pid",
+		"/Applications/MAMP/conf/SQLiteManager/config.db",
+		"/Users/julian/Downloads/Hoosk-1.4.0/README.md",
+		"/Users/julian/web_ulq/api/application/views/welcome_message.php",
+		"/Users/julian/web_ulq/api/index.php",
+		"/Users/julian/web_ulq/api/README.md",
+		"/Users/julian/web_ulq/banners.php",
+		"/Users/julian/web_ulq/index.php",
+		"/Users/julian/web_ulq/rectoria.php",
+		"/Users/julian/web_ulq/quien-es-lq.php",
+		"/Users/julian/web_ulq/adn-corporativo.php",
+		"/Users/julian/web_ulq/como-matricularse-requisitos-tsu-lic.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/index.php",
+		"/Volumes/SHERPA/CLIENTES/CLIENTES INACTIVOS /INDENOR/Web/fortalezas.html",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/26/1.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/26/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/24/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/23/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/22/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/21/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/19/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/18/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/17/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/16/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/14/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/14/1.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/10/index.php",
+		"/Users/julian/web_ulq/modelo-educativo.php",
+		"/Volumes/Julian HD/Site Peñasco/feria-del-libro/index.php",
+		"/Volumes/Julian HD/Site Peñasco/index.php",
+		"/Volumes/Julian HD/Site Peñasco/sftp-config.json",
+		"/Users/julian/Desktop/respaldo/Administrador/gConsulta.aspx.cs",
+		"/Volumes/Julian HD/Site Peñasco/foro/conferencistas.php",
+		"/Volumes/Julian HD/Site Peñasco/foro/programa.php",
+		"/Volumes/Julian HD/Site Peñasco/forodsc/conferencistas.php",
+		"/Volumes/Julian HD/Site Peñasco/forodsc/programa.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/8/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/5/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/4/1.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/4/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/3/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/noviembre/1/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/widget.php",
+		"/Volumes/Julian HD/Site Peñasco/penasco.sublime-project",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/30/index.php",
+		"/Users/julian/Desktop/suspiros/contacto.html",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/27/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/26/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/25/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/24/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/23/1.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/23/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/20/2.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/20/1.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/20/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/14/1.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/19/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/17/1.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/17/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/15/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/14/index.php",
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/13/index.php",
+		"/Volumes/Julian HD/Site Peñasco/forodsc/registro.php",
+		"/Volumes/Julian HD/Site Peñasco/foro/registro.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Volumes/Julian HD/Site Peñasco"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h2",
+			"azul",
+			"ul",
+			"cuadro-azul",
+			"investigaciones",
+			"19",
+			".wpb_button",
+			"margin-bottom:35px;",
+			"margin-bottom: 35px;",
+			"menu",
+			"best",
+			"categoria-producto",
+			"actividades",
+			"contacto",
+			"cantidad"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/tutor.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								400,
+								400
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "servicios/due/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2041,
+								2686
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 322.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "servicios/due/evaluacion-identificacion.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2673,
+								2673
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 512.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "servicios/due/diligencia-debida-investigacion.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6519,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5021,
+								5021
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 352.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "servicios/due/diligencia-debida-mejorada.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6899,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2943,
+								2943
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 386.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "tutor.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
