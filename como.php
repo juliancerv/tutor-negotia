@@ -41,12 +41,12 @@ Desarrollo: Julian Cervantes
 		<div class="row">
 			<div class="col-xs-12 col-sm-5 noespacio">
 				<img src="img/img-como.jpg" class="imagenes" alt="">
-				<p class="titulo">¿cómo ayudamos?</p>
-				<p>Eliminamos y reemplazamos la incertidumbre con respuestas claras y objetivas mediante procesos y técnicas profesionales que le permiten a ud y a su industria tomar las acciones preventivas o correctivas para la remediación de daños financieros, a la reputación, o de cualquier otra índole o en su defecto la ubicación y recuperación de activos tangibles e intangibles.</p>
+				<p class="titulo unify">¿cómo ayudamos?</p>
+				<p class="unify">Eliminamos y reemplazamos la incertidumbre con respuestas claras y objetivas mediante procesos y técnicas profesionales que le permiten a ud y a su industria tomar las acciones preventivas o correctivas para la remediación de daños financieros, a la reputación, o de cualquier otra índole o en su defecto la ubicación y recuperación de activos tangibles e intangibles.</p>
 			</div>
 			<div class="col-xs-12 col-sm-3 noespacio cuadros">
-				<p class="subtitulo">Acciones que tomamos</p>
-				<ul>
+				<p class="subtitulo unify">Acciones que tomamos</p>
+				<ul class="unify">
 					<li>Análisis de las interacciones internas y externas de negocios y sus relaciones.</li>
 					<li>Evaluación de oportunidades de negocio y dimensión de riesgos.</li>
 					<li>Investigación de malas conductas y sus implicaciones Financieras e implementación de normas de gestión preventivas.</li>
@@ -63,7 +63,7 @@ Desarrollo: Julian Cervantes
 			<hr class="separador">
 		</div>
 		<div class="row">
-			<div class="col-xs-6 col-sm-2">
+			<div class="col-xs-6 col-sm-2 col-sm-offset-2">
 				<a href="servicios/investigaciones">
 					<img src="img/s1.jpg" class="imagenes" alt="">
 					<p class="titulos">Investigaciones</p>
@@ -77,26 +77,14 @@ Desarrollo: Julian Cervantes
 			</div>
 			<div class="col-xs-6 col-sm-2">
 				<a href="servicios/gestion">
-					<img src="img/s6.jpg" class="imagenes" alt="">
+					<img src="img/s3.jpg" class="imagenes" alt="">
 					<p class="titulos">Gestión Antifraude<br>y Anti soborno</p>
 				</a>
 			</div>
 			<div class="col-xs-6 col-sm-2">
-				<a href="http://www.segman.com/index.html">
-					<img src="img/s3.jpg" class="imagenes" alt="">
-					<p class="titulos">Due<br>Dilligence</p>
-				</a>
-			</div>
-			<div class="col-xs-6 col-sm-2">
-				<a href="servicios/fisica">
-					<img src="img/s5.jpg" class="imagenes" alt="">
-					<p class="titulos">Seguridad física<br>y transportación</p>
-				</a>
-			</div>
-			<div class="col-xs-6 col-sm-2">
-				<a href="servicios/cibernetica">
+				<a href="servicios/riesgos/">
 					<img src="img/s4.jpg" class="imagenes" alt="">
-					<p class="titulos">Seguridad<br>cibernética</p>
+					<p class="titulos">RIESGOS DE SEGURIDAD</p>
 				</a>
 			</div>
 		</div>

@@ -41,23 +41,29 @@ Desarrollo: Julian Cervantes
 		<div class="row gestion">
 			<div class="col-xs-12 col-sm-3 noespacio cuadros top">
 			<p>&nbsp;</p>
-				<ul>
-					<li><a href="#">Celiac authentic letterpress. pinterest.</a></li>
-					<li><a href="#">Celiac authentic letterpress. pinterest.</a></li>
-					<li><a href="#">Celiac authentic letterpress. pinterest.</a></li>
+				<ul class="unify">
+					<li><a href="1.php">Titulo</a></li>
+					<li><a href="2.php">Titulo</a></li>
+					<li><a href="3.php">Titulo</a></li>
+					<li><a href="4.php">Titulo</a></li>
+					<li><a href="5.php">Titulo</a></li>
+					<li><a href="6.php">Titulo</a></li>
+					<li><a href="7.php">Titulo</a></li>
+					<li><a href="8.php">Titulo</a></li>
 				</ul>
 			<p>&nbsp;</p>
 			</div>
 			<div class="col-xs-12 col-sm-5 noespacio top">
 				<div class="cuadro-azul">
-					<div class="titulo"><img src="../../img/gestion.png" alt="">&nbsp;Gestión anti fraude y soborno</div>
-					<p class="texto"><strong>Celiac authentic letterpress, bespoke pok pok cardigan mustache man braid. Tumblr.</strong></p>
+					<div class="titulo unify"><img src="../../img/gestion.png" alt="">&nbsp;Gestión anti fraude y soborno</div>
+					<p class="texto unify"><strong>Celiac authentic letterpress, bespoke pok pok cardigan mustache man braid. Tumblr.</strong></p>
 				</div>
 				<img class="abajo" src="../../img/abajo.jpg" alt="">
-				<p>Celiac authentic letterpress, bespoke pok pok cardigan mustache man braid. Tumblr williamsburg meditation pinterest. Sustainable vinyl pug, mustache DIY viral deep v polaroid retro scenester stumptown skateboard brooklyn pop-up. Pour-over live-edge XOXO trust fund, jianbing cliche green juice. Tousled swag marfa, street art sriracha gentrify tilde intelligentsia knausgaard. Kickstarter meggings sustainable, affogato health goth flannel before they sold out. Actually VHS crucifix vaporware chambray thundercats gastropub distillery sustainable.</p>
-				<p>Kogi enamel pin pug leggings gluten-free, trust fund unicorn narwhal semiotics letterpress selvage mustache succulents. La croix chambray glossier occupy, XOXO retro hell of. Next level yuccie wayfarers, pop-up godard stumptown pabst live-edge ugh selvage street art venmo. 90's synth tote bag, four dollar toast waistcoat direct trade dreamcatcher meh kale chips coloring book thundercats occupy. Kombucha intelligentsia 90's PBR&B. Gluten-free vinyl 90's thundercats cardigan poke, copper mug cronut hexagon disrupt kale chips shoreditch. Pitchfork tilde man braid master cleanse, shabby chic biodiesel taxidermy.</p>
-				<p>Skateboard food truck cray, blog chicharrones vinyl next level scenester disrupt health goth helvetica plaid truffaut slow-carb single-origin coffee. Tilde art party drinking vinegar tousled quinoa church-key leggings, venmo pour-over irony. Humblebrag chia hammock venmo vinyl vaporware direct trade, 8-bit fap brunch meggings succulents. Hella stumptown paleo kickstarter lumbersexual, waistcoat direct trade readymade messenger bag roof party hell of air plant poutine swag. Williamsburg keffiyeh put a bird on it, shabby chic deep v YOLO normcore. Poke pabst tote bag, coloring book fixie kale chips flexitarian hashtag bushwick tousled dreamcatcher godard. Fashion axe chambray post-ironic taxidermy chillwave, lyft single-origin coffee 3 wolf moon tilde sartorial.</p>
-				<p>Humblebrag swag af, yr man braid narwhal fam wayfarers butcher kinfolk VHS. Pabst sartorial hot chicken, chicharrones tbh drinking vinegar paleo bespoke mumblecore ugh leggings art party four dollar toast. Food truck lyft vegan, artisan heirloom live-edge venmo blog 3 wolf moon pickled glossier af. Narwhal woke swag, austin everyday carry lumbersexual tilde brooklyn forage venmo helvetica DIY. Williamsburg truffaut sriracha green juice. Cardigan tofu whatever bitters flexitarian vape mustache vexillologist, cornhole 8-bit waistcoat. 8-bit kogi four dollar toast you probably haven't heard of them keytar.</p>
+				<div class="unify">
+				<p><strong>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"</strong></p>
+				<p>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"</p>
+				<p><strong>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"</strong></p>
+				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 noespacio top2">
 				<div class="col-xs-6 col-sm-6">
@@ -73,27 +79,15 @@ Desarrollo: Julian Cervantes
 					</a>
 				</div>
 				<div class="col-xs-6 col-sm-6">
-					<a href="http://www.segman.com/index.html">
-						<img src="../../img/s3.jpg" class="imagenes" alt="">
-						<p class="titulos">Diligencia<br>de vida</p>
-					</a>
-				</div>
-				<div class="col-xs-6 col-sm-6">
-					<a href="../../servicios/cibernetica">
-						<img src="../../img/s4.jpg" class="imagenes" alt="">
-						<p class="titulos">Seguridad<br>cibernética</p>
-					</a>
-				</div>
-				<div class="col-xs-6 col-sm-6">
-					<a href="../../servicios/fisica">
-						<img src="../../img/s5.jpg" class="imagenes" alt="">
-						<p class="titulos">Seguridad física<br>y transportación</p>
-					</a>
-				</div>
-				<div class="col-xs-6 col-sm-6">
 					<a href="../../servicios/gestion">
-						<img src="../../img/s6.jpg" class="imagenes" alt="">
+						<img src="../../img/s3.jpg" class="imagenes" alt="">
 						<p class="titulos">Gestión Antifraude<br>y Anti soborno</p>
+					</a>
+				</div>
+				<div class="col-xs-6 col-sm-6">
+					<a href="../../servicios/riesgos/">
+						<img src="../../img/s4.jpg" class="imagenes" alt="">
+						<p class="titulos">RIESGOS DE SEGURIDAD</p>
 					</a>
 				</div>
 			</div>

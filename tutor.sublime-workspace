@@ -103,43 +103,16 @@
 			"file": "css/tutor.styl",
 			"settings":
 			{
-				"buffer_size": 5445,
+				"buffer_size": 5457,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "servicios/due/index.php",
+			"file": "servicios/empresarial/index.php",
 			"settings":
 			{
-				"buffer_size": 7470,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "servicios/due/evaluacion-identificacion.php",
-			"settings":
-			{
-				"buffer_size": 6425,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "servicios/due/diligencia-debida-investigacion.php",
-			"settings":
-			{
-				"buffer_size": 6519,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "servicios/due/diligencia-debida-mejorada.php",
-			"settings":
-			{
-				"buffer_size": 6899,
+				"buffer_size": 6068,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -194,13 +167,28 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/julian/Desktop/tutor",
-		"/Users/julian/Desktop/tutor/css",
-		"/Users/julian/Desktop/tutor/servicios",
-		"/Users/julian/Desktop/tutor/servicios/due"
+		"/Users/julian/GitHub/tutor-negotia",
+		"/Users/julian/GitHub/tutor-negotia/servicios",
+		"/Users/julian/GitHub/tutor-negotia/servicios/empresarial"
 	],
 	"file_history":
 	[
+		"/Users/julian/GitHub/tutor-negotia/servicios/investigaciones/index.php",
+		"/Users/julian/GitHub/tutor-negotia/servicios/investigaciones/fraude-malas-conductas.php",
+		"/Users/julian/GitHub/tutor-negotia/servicios/investigaciones/desvios-malversaciones-financieras.php",
+		"/Users/julian/GitHub/tutor-negotia/servicios/investigaciones/e-discovery.php",
+		"/Users/julian/GitHub/tutor-negotia/servicios/investigaciones/rastreo-bienes-ocultos.php",
+		"/Users/julian/GitHub/tutor-negotia/servicios/investigaciones/incumplimientos-legales-normativos.php",
+		"/Users/julian/GitHub/tutor-negotia/servicios/investigaciones/investigacion-patrimonial.php",
+		"/Users/julian/GitHub/tutor-negotia/servicios/investigaciones/uso-indebido-propiedad-intelectual.php",
+		"/Users/julian/GitHub/tutor-negotia/servicios/investigaciones/terceros-proveedores.php",
+		"/Users/julian/GitHub/tutor-negotia/servicios/investigaciones/ciberneticas.php",
+		"/Users/julian/GitHub/tutor-negotia/index.php",
+		"/Users/julian/GitHub/tutor-negotia/servicios/due/index.php",
+		"/Users/julian/GitHub/tutor-negotia/servicios/due/evaluacion-identificacion.php",
+		"/Users/julian/GitHub/tutor-negotia/servicios/due/diligencia-debida-investigacion.php",
+		"/Users/julian/GitHub/tutor-negotia/servicios/due/diligencia-debida-mejorada.php",
+		"/Users/julian/GitHub/tutor-negotia/tutor.sublime-project",
 		"/Users/julian/Desktop/tutor/index.php",
 		"/Users/julian/Desktop/tutor/como.php",
 		"/Users/julian/Desktop/tutor/quienes.php",
@@ -312,23 +300,7 @@
 		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/30/index.php",
 		"/Users/julian/Desktop/suspiros/contacto.html",
 		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/27/index.php",
-		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/26/index.php",
-		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/25/index.php",
-		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/24/index.php",
-		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/23/1.php",
-		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/23/index.php",
-		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/20/2.php",
-		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/20/1.php",
-		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/20/index.php",
-		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/14/1.php",
-		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/19/index.php",
-		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/17/1.php",
-		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/17/index.php",
-		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/15/index.php",
-		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/14/index.php",
-		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/13/index.php",
-		"/Volumes/Julian HD/Site Peñasco/forodsc/registro.php",
-		"/Volumes/Julian HD/Site Peñasco/foro/registro.php"
+		"/Volumes/Julian HD/Site Peñasco/noticias/2016/octubre/26/index.php"
 	],
 	"find":
 	{
@@ -380,7 +352,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -389,15 +361,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5445,
+						"buffer_size": 5457,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								400,
-								400
+								2316,
+								2316
 							]
 						],
 						"settings":
@@ -409,123 +381,27 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "servicios/due/index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7470,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2041,
-								2686
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 322.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "servicios/due/evaluacion-identificacion.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6425,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2673,
-								2673
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 512.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "servicios/due/diligencia-debida-investigacion.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6519,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5021,
-								5021
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 352.0,
+						"translation.y": 1424.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "servicios/due/diligencia-debida-mejorada.php",
+					"buffer": 1,
+					"file": "servicios/empresarial/index.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6899,
+						"buffer_size": 6068,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2943,
-								2943
+								2319,
+								2319
 							]
 						],
 						"settings":
@@ -537,7 +413,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 386.0,
+						"translation.y": 183.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

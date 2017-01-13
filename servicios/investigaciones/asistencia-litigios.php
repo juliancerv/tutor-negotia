@@ -41,33 +41,35 @@ Desarrollo: Julian Cervantes
 		<div class="row investigaciones">
 			<div class="col-xs-12 col-sm-3 noespacio cuadros top">
 			<p>&nbsp;</p>
-				<ul>
-					<li><a href="internas.php">Investigaciones Internas y sobre Fraude</a></li>
-					<li><a href="financieras.php" >Investigaciones Financieras</a></li>
-					<li><a href="ciberneticas.php">Investigaciones Cibernéticas</a></li>
-					<li><a href="busqueda-recuperacion.php">Búsquedas y Recuperación de Activos</a></li>
-					<li><a href="reglamentarias.php">Investigaciones Reglamentarias</a></li>
-					<li><a href="controles.php">Controles</a></li>
-					<li><a href="litigios-conflictos.php">Litigios y Conflictos</a></li>
+				<ul class="unify">
+					<li><a href="fraude-malas-conductas.php">Fraude y malas conductas</a></li>
+					<li><a href="desvios-malversaciones-financieras.php">Desvios y malversaciones financieras</a></li>
+					<li><a href="rastreo-bienes-ocultos.php">Rastreo de bienes ocultos</a></li>
+					<li><a href="e-discovery.php">E-Discovery</a></li>
+					<li><a href="investigacion-patrimonial.php">Investigación patrimonial</a></li>
+					<li><a href="incumplimientos-legales-normativos.php">Incumplimientos legales y normativos</a></li>
 					<ul class="sub">
 						<li><a href="#" class="activo">Asistencia en litigios</a></li>
-						<li><a href="conflictos-comerciales.php">Asesoría sobre conflictos comerciales</a></li>
+						<li><a href="asesoria-conflictos-comerciales.php">Asesoría sobre conflictos comerciales</a></li>
 					</ul>
-					<li><a href="uso-propiedad-intelectual.php">Uso debido de la Propiedad Intelectual</a></li>
+					<li><a href="uso-indebido-propiedad-intelectual.php">Uso indebido de propiedad intelectual</a></li>
+					<li><a href="terceros-proveedores.php">Terceros y proveedores</a></li>
 				</ul>
 			<p>&nbsp;</p>
 			</div>
 			<div class="col-xs-12 col-sm-5 noespacio top">
 				<div class="cuadro-azul">
-					<div class="titulo"><img src="../../img/investigaciones.png" alt="">&nbsp;investigaciones</div>
-					<p class="subtitulo"><strong>Litigios y conflictos</strong><br><span class="blanco">/ Asistencia en litigios</span></p>
+					<div class="titulo unify"><img src="../../img/investigaciones.png" alt="">&nbsp;investigaciones</div>
+					<p class="subtitulo unify"><strong>Litigios y conflictos</strong><br><span class="blanco">/ Asistencia en litigios</span></p>
 				</div>
 				<img class="abajo" src="../../img/abajo.jpg" alt="">
+				<div class="unify">
 				<p><strong>Cuando un conflicto empresarial desemboca en un litigio, los costos, tanto del procedimiento judicial como de la interrupción del negocio, pueden ser escalofriantes.</strong></p>
 				<p>Los clientes y sus abogados confían en los conocimientos de investigación, la variedad de capacidades y la amplia experiencia de Tutor Negotia no sólo para ayudarles a satisfacer sus objetivos con respecto al litigio, sino también para resolver con rapidez sus conflictos.</p>
 				<p>El alcance mundial líder en la industria de Tutor Negotia significa que nuestros investigadores, expertos en tecnología, contables forenses y analistas especializados pueden identificar los problemas más destacados, recabar los hechos pertinentes y localizar e interrogar a las personas que poseen la información clave.</p>
 				<p>En Tutor Negotia ayudamos a descubrir las vulnerabilidades de los testigos del contrario o de los de nuestro cliente; detectamos los problemas que se esconden tras los números; desvelamos y protegemos las pruebas electrónicas y sabemos muy bien cómo podemos utilizar los recursos jurídicos disponibles para localizar activos en todo el mundo.</p>
 				<p>Nos diferenciamos por la calidad de nuestros resultados. En Tutor Negotia conocemos el entorno de los litigios y poseemos los conocimientos locales y la presencia mundial necesarios para ayudar a nuestros clientes a resolver los asuntos más delicados y complejos.</p>
+				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 noespacio top2">
 				<div class="col-xs-6 col-sm-6">
@@ -83,27 +85,15 @@ Desarrollo: Julian Cervantes
 					</a>
 				</div>
 				<div class="col-xs-6 col-sm-6">
-					<a href="http://www.segman.com/index.html">
-						<img src="../../img/s3.jpg" class="imagenes" alt="">
-						<p class="titulos">Diligencia<br>de vida</p>
-					</a>
-				</div>
-				<div class="col-xs-6 col-sm-6">
-					<a href="../../servicios/cibernetica">
-						<img src="../../img/s4.jpg" class="imagenes" alt="">
-						<p class="titulos">Seguridad<br>cibernética</p>
-					</a>
-				</div>
-				<div class="col-xs-6 col-sm-6">
-					<a href="../../servicios/fisica">
-						<img src="../../img/s5.jpg" class="imagenes" alt="">
-						<p class="titulos">Seguridad física<br>y transportación</p>
-					</a>
-				</div>
-				<div class="col-xs-6 col-sm-6">
 					<a href="../../servicios/gestion">
-						<img src="../../img/s6.jpg" class="imagenes" alt="">
+						<img src="../../img/s3.jpg" class="imagenes" alt="">
 						<p class="titulos">Gestión Antifraude<br>y Anti soborno</p>
+					</a>
+				</div>
+				<div class="col-xs-6 col-sm-6">
+					<a href="../../servicios/riesgos/">
+						<img src="../../img/s4.jpg" class="imagenes" alt="">
+						<p class="titulos">RIESGOS DE SEGURIDAD</p>
 					</a>
 				</div>
 			</div>

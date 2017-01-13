@@ -159,7 +159,8 @@ strong {
   font-family: 'Exo2Light';
   font-size: 20px;
   line-height: 20px;
-  text-align: right;
+  padding: 0px;
+  text-align: left;
   text-transform: uppercase;
   color: #00aeef;
 }
@@ -171,7 +172,7 @@ strong {
   font-family: 'Exo2Regular';
   font-size: 15px;
   padding: 0;
-  text-align: justify;
+  text-align: left;
 }
 .titulos {
   color: #202020;
@@ -264,7 +265,7 @@ strong {
 }
 .cuadro-azul .blanco {
   color: #fff;
-  font-size: 15px;
+  font-size: 19px;
 }
 /*-----Fuentes-----*/
 @font-face {

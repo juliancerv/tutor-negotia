@@ -41,24 +41,29 @@ Desarrollo: Julian Cervantes
 		<div class="row empresarial">
 			<div class="col-xs-12 col-sm-3 noespacio cuadros top">
 			<p>&nbsp;</p>
-				<ul>
-					<li><a href="entrada-mercado.php">Entrada en el mercado</a></li>
-					<li><a href="inteligencia-competidores.php">Inteligencia sobre los competidores</a></li>
-					<li><a href="diligencia-comercial.php">Diligencia Debida comercial</a></li>
-					<li><a href="investigacion-fondos-covertura.php">Investigación sobre Fondos de Covertura Privados</a></li>
-					<li><a href="asesoria-empresariales.php">Asesoría sobre concursos empresariales</a></li>
+				<ul class="unify">
+					<li><a href="due-dilligence-comercial.php">Due dilligence comercial</a></li>
+					<li><a href="inteligencia-mercados.php">Inteligencia de mercados</a></li>
+					<li><a href="due-dilligence-operaciones.php">Due dilligence de operaciones</a></li>
+					<li><a href="concursos-mercantiles.php">Concursos mercantiles</a></li>
+					<li><a href="1.php">Titulo</a></li>
+					<li><a href="2.php">Titulo</a></li>
+					<li><a href="3.php">Titulo</a></li>
+					<li><a href="4.php">Titulo</a></li>
 				</ul>
 			<p>&nbsp;</p>
 			</div>
 			<div class="col-xs-12 col-sm-5 noespacio top">
 				<div class="cuadro-azul">
-					<div class="titulo"><img src="../../img/inteligencia.png" alt="">&nbsp;inteligencia empresarial</div>
-					<p class="texto"><strong>Obtener la información adecuada en el momento adecuado puede significar la diferencia entre el éxito y el fracaso de una organización.</strong></p>
+					<div class="titulo unify"><img src="../../img/inteligencia.png" alt="">&nbsp;inteligencia empresarial</div>
+					<p class="texto unify"><strong>Obtener la información adecuada en el momento adecuado puede significar la diferencia entre el éxito y el fracaso de una organización.</strong></p>
 				</div>
 				<img class="abajo" src="../../img/abajo.jpg" alt="">
+				<div class="unify">
 				<p>A la hora de examinar la ventaja operacional de un competidor, de evaluar la actitud de un regulador o de un político local con respecto a la propuesta de una fusión o de una nueva fábrica, o bien de evaluar la calidad de las relaciones de una empresa, los clientes recurren a Tutor Negotia para que les proporcione información de inteligencia fiable y procesable. A medida que las empresas buscan y compiten por oportunidades de crecimiento, se enfrentan a nuevos retos como operar en entornos económicos, políticos, empresariales y jurídicos desconocidos, cumplir reglamentos locales y lidiar con mercados inestables.</p>
 				<p>Tutor Negotia proporciona una mejor comprensión estratégica de las cuestiones relacionadas con el riesgo operacional al combinar las capacidades investigativas y la investigación de las fuentes primarias con una capacidad de análisis insuperable que permiten a sus clientes comprender los riesgos y los beneficios de las nuevas oportunidades.</p>
 				<p>Nuestros conocimientos se basan en hechos que recabamos sobre el terreno y se obtienen a partir de profundos análisis de la información de acceso público y de una selecta red internacional de contactos independientes. Los equipos multidisciplinarios de los clientes cuentan con expertos en los campos del periodismo de investigación, la consultoría de gestión, la inteligencia, el derecho y otras profesiones. Gracias a su acceso inigualable a conocimientos especializados y recursos de investigación, Tutor Negotia se encuentra en una posición privilegiada para ayudar a las organizaciones a comprender, evaluar y responder ante el riesgo y beneficiarse de oportunidades prometedoras.</p>
+				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 noespacio top2">
 				<div class="col-xs-6 col-sm-6">
@@ -74,27 +79,15 @@ Desarrollo: Julian Cervantes
 					</a>
 				</div>
 				<div class="col-xs-6 col-sm-6">
-					<a href="http://www.segman.com/index.html">
-						<img src="../../img/s3.jpg" class="imagenes" alt="">
-						<p class="titulos">Diligencia<br>de vida</p>
-					</a>
-				</div>
-				<div class="col-xs-6 col-sm-6">
-					<a href="../../servicios/cibernetica">
-						<img src="../../img/s4.jpg" class="imagenes" alt="">
-						<p class="titulos">Seguridad<br>cibernética</p>
-					</a>
-				</div>
-				<div class="col-xs-6 col-sm-6">
-					<a href="../../servicios/fisica">
-						<img src="../../img/s5.jpg" class="imagenes" alt="">
-						<p class="titulos">Seguridad física<br>y transportación</p>
-					</a>
-				</div>
-				<div class="col-xs-6 col-sm-6">
 					<a href="../../servicios/gestion">
-						<img src="../../img/s6.jpg" class="imagenes" alt="">
+						<img src="../../img/s3.jpg" class="imagenes" alt="">
 						<p class="titulos">Gestión Antifraude<br>y Anti soborno</p>
+					</a>
+				</div>
+				<div class="col-xs-6 col-sm-6">
+					<a href="../../servicios/riesgos/">
+						<img src="../../img/s4.jpg" class="imagenes" alt="">
+						<p class="titulos">RIESGOS DE SEGURIDAD</p>
 					</a>
 				</div>
 			</div>

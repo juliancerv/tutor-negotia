@@ -75,18 +75,16 @@ Desarrollo: Julian Cervantes
 				</div>
 			</div>
 		</div>
-		<div class="row unify">
-			<div class="col-xs-11 col-sm-3">
-				<p class="ititulo">tutor negotia,<br><span>business security.</span></p>
-			</div>
-			<div class="col-xs-12 col-sm-9">
-				<p class="descripcion ">Expertos en la clarificación de lo incierto o desconocido, coadyuvamos en la  gestión del cumplimiento legal y normativo, acompañamos y gestionamos procesos litigiosos y mitigamos el riesgo de fraude, incorrección y amenazas de seguridad</p>
-			</div>
+		<div class="row">
 			<div class="col-xs-12">
 				<hr class="separador">
 			</div>
 		</div>
 		<div class="row">
+			<div class="col-xs-6 col-sm-4">
+				<p class="ititulo">tutor negotia,<br><span>business security.</span></p>
+				<p class="descripcion unify">Expertos en la clarificación de lo incierto o desconocido, coadyuvamos en la  gestión del cumplimiento legal y normativo, acompañamos y gestionamos procesos litigiosos y mitigamos el riesgo de fraude, incorrección y amenazas de seguridad</p>
+			</div>
 			<div class="col-xs-6 col-sm-2">
 				<a href="servicios/investigaciones">
 					<img src="img/s1.jpg" class="imagenes" alt="">
@@ -101,26 +99,14 @@ Desarrollo: Julian Cervantes
 			</div>
 			<div class="col-xs-6 col-sm-2">
 				<a href="servicios/gestion">
-					<img src="img/s6.jpg" class="imagenes" alt="">
+					<img src="img/s3.jpg" class="imagenes" alt="">
 					<p class="titulos">Gestión Antifraude<br>y Anti soborno</p>
 				</a>
 			</div>
 			<div class="col-xs-6 col-sm-2">
-				<a href="servicios/due/">
-					<img src="img/s3.jpg" class="imagenes" alt="">
-					<p class="titulos">Due<br>Dilligence</p>
-				</a>
-			</div>
-			<div class="col-xs-6 col-sm-2">
-				<a href="servicios/fisica">
-					<img src="img/s5.jpg" class="imagenes" alt="">
-					<p class="titulos">Seguridad física<br>y transportación</p>
-				</a>
-			</div>
-			<div class="col-xs-6 col-sm-2">
-				<a href="servicios/cibernetica">
+				<a href="servicios/riesgos/">
 					<img src="img/s4.jpg" class="imagenes" alt="">
-					<p class="titulos">Seguridad<br>cibernética</p>
+					<p class="titulos">RIESGOS DE SEGURIDAD</p>
 				</a>
 			</div>
 		</div>

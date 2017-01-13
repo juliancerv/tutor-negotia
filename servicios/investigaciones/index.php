@@ -41,27 +41,29 @@ Desarrollo: Julian Cervantes
 		<div class="row investigaciones">
 			<div class="col-xs-12 col-sm-3 noespacio cuadros top">
 			<p>&nbsp;</p>
-				<ul>
-					<li><a href="internas.php">Investigaciones Internas y sobre Fraude</a></li>
-					<li><a href="financieras.php">Investigaciones Financieras</a></li>
-					<li><a href="ciberneticas.php">Investigaciones Cibernéticas</a></li>
-					<li><a href="busqueda-recuperacion.php">Búsquedas y Recuperación de Activos</a></li>
-					<li><a href="reglamentarias.php">Investigaciones Reglamentarias</a></li>
-					<li><a href="controles.php">Controles</a></li>
-					<li><a href="litigios-conflictos.php">Litigios y Conflictos</a></li>
-					<li><a href="uso-propiedad-intelectual.php">Uso debido de la Propiedad Intelectual</a></li>
+				<ul class="unify">
+					<li><a href="fraude-malas-conductas.php">Fraude y malas conductas</a></li>
+					<li><a href="desvios-malversaciones-financieras.php">Desvios y malversaciones financieras</a></li>
+					<li><a href="rastreo-bienes-ocultos.php">Rastreo de bienes ocultos</a></li>
+					<li><a href="e-discovery.php">E-Discovery</a></li>
+					<li><a href="investigacion-patrimonial.php">Investigación patrimonial</a></li>
+					<li><a href="incumplimientos-legales-normativos.php">Incumplimientos legales y normativos</a></li>
+					<li><a href="uso-indebido-propiedad-intelectual.php">Uso indebido de propiedad intelectual</a></li>
+					<li><a href="terceros-proveedores.php">Terceros y proveedores</a></li>
 				</ul>
 			<p>&nbsp;</p>
 			</div>
 			<div class="col-xs-12 col-sm-5 noespacio top">
 				<div class="cuadro-azul">
-					<div class="titulo"><img src="../../img/investigaciones.png" alt="">&nbsp;investigaciones</div>
-					<p class="texto"><strong>El fraude y las irregularidades financieras son algunos de los problemas más complejos y exigentes a los que se enfrentan actualmente las empresas.</strong></p>
+					<div class="titulo unify"><img src="../../img/investigaciones.png" alt="">&nbsp;investigaciones</div>
+					<p class="texto unify"><strong>El fraude y las irregularidades financieras son algunos de los problemas más complejos y exigentes a los que se enfrentan actualmente las empresas.</strong></p>
 				</div>
 				<img class="abajo" src="../../img/abajo.jpg" alt="">
+				<div class="unify">
 				<p>Cuando se detecta una irregularidad, las organizaciones no suelen estar preparadas para responder y reaccionar de manera adecuada. Esto puede provocar grandes daños económicos, así como plantear graves riesgos reputacionales y reglamentarios para la empresa. Pese a estas amenazas, numerosas organizaciones no adoptan las medidas adecuadas para prevenir, identificar, responder a y recuperarse de estos incidentes.</p>
 				<p>La combinación única de ofertas de servicios de Tutor Negotia nos permite ofrecer a los clientes asesoramiento y asistencia especializados en cada una de las etapas del proceso, abarcando desde la investigación hasta la recuperación, la formación y la prevención.</p>
 				<p>Nuestros investigadores poseen formación en la realización de interrogatorios, la recabación de pruebas y la vigilancia, además de contar con las técnicas de investigación más avanzadas. Tutor Negotiaconoce en profundidad la admisibilidad de las pruebas y los criterios de valoración de las pruebas que se exigen en las acciones civiles y penales. Tan pronto como se identifica un problema o un presunto incidente, los expertos de Tutor Negotia desarrollan una estrategia de investigación que aborda los problemas y las necesidades del cliente. Esta estrategia puede incluir medidas urgentes para evitar que se produzcan daños adicionales así como la identificación de las partes interesadas y los organismos reguladores a los que debe notificarse el asunto. Mientras que nuestros contables de investigación trabajan para cuantificar las pérdidas, nuestro experimentado equipo de ex fiscales, personal del ámbito de la aplicación de la ley, analistas financieros, especialistas e investigadores formados en informática forense identifican a los sujetos o las organizaciones responsables de dichas pérdidas. Tutor Negotia trabaja con el cliente para identificar y recabar pruebas que permitan apoyar cualquier acción civil, reglamentaria o penal posterior.</p>
+				</div>
 			</div>
 			<div class="col-xs-12 col-sm-4 noespacio top2">
 				<div class="col-xs-6 col-sm-6">
@@ -77,27 +79,15 @@ Desarrollo: Julian Cervantes
 					</a>
 				</div>
 				<div class="col-xs-6 col-sm-6">
-					<a href="http://www.segman.com/index.html">
-						<img src="../../img/s3.jpg" class="imagenes" alt="">
-						<p class="titulos">Diligencia<br>de vida</p>
-					</a>
-				</div>
-				<div class="col-xs-6 col-sm-6">
-					<a href="../../servicios/cibernetica">
-						<img src="../../img/s4.jpg" class="imagenes" alt="">
-						<p class="titulos">Seguridad<br>cibernética</p>
-					</a>
-				</div>
-				<div class="col-xs-6 col-sm-6">
-					<a href="../../servicios/fisica">
-						<img src="../../img/s5.jpg" class="imagenes" alt="">
-						<p class="titulos">Seguridad física<br>y transportación</p>
-					</a>
-				</div>
-				<div class="col-xs-6 col-sm-6">
 					<a href="../../servicios/gestion">
-						<img src="../../img/s6.jpg" class="imagenes" alt="">
+						<img src="../../img/s3.jpg" class="imagenes" alt="">
 						<p class="titulos">Gestión Antifraude<br>y Anti soborno</p>
+					</a>
+				</div>
+				<div class="col-xs-6 col-sm-6">
+					<a href="../../servicios/riesgos/">
+						<img src="../../img/s4.jpg" class="imagenes" alt="">
+						<p class="titulos">RIESGOS DE SEGURIDAD</p>
 					</a>
 				</div>
 			</div>

@@ -44,16 +44,16 @@ Desarrollo: Julian Cervantes
 					<img src="img/quienes-img.jpg" class="imagenes" alt="">
 				</div>
 				<div class="col-xs-12 col-sm-5 noespacio azul unify">
-					<p>Expertos <br>en la clarificación <br>de lo incierto <br>o desconocido.</p>
+					<p class="unify">Expertos <br>en la clarificación <br>de lo incierto <br>o desconocido.</p>
 				</div>
 				<div class="col-xs-12 col-sm-5 noespacio unify">
 				<br>
-					<p class="titulo">¿quiénes somos?</p>
-					<p>En TUTOR NEGOTIA BUSINESS SECURITY Somos los expertos en la clarificación de lo incierto o desconocido, coadyuvamos en la  gestión del cumplimiento legal y normativo, acompañamos y gestionamos procesos litigiosos y mitigamos el riesgo de fraude, incorrección y amenazas de seguridad.</p>
+					<p class="titulo unify">¿quiénes somos?</p>
+					<p class="unify">En TUTOR NEGOTIA BUSINESS SECURITY Somos los expertos en la clarificación de lo incierto o desconocido, coadyuvamos en la  gestión del cumplimiento legal y normativo, acompañamos y gestionamos procesos litigiosos y mitigamos el riesgo de fraude, incorrección y amenazas de seguridad.</p>
 				</div>
 				<div class="col-xs-12 col-sm-7 noespacio cuadros unify">
 					<br>
-						<ul>
+						<ul class="unify">
 							<li>Líderes en nuestra práctica.</li>
 							<li>Expertos en cumplimiento.</li>
 							<li>Peritos contables y auditores forenses.</li>
@@ -71,7 +71,7 @@ Desarrollo: Julian Cervantes
 			<hr class="separador">
 		</div>
 		<div class="row">
-			<div class="col-xs-6 col-sm-2">
+			<div class="col-xs-6 col-sm-2 col-sm-offset-2">
 				<a href="servicios/investigaciones">
 					<img src="img/s1.jpg" class="imagenes" alt="">
 					<p class="titulos">Investigaciones</p>
@@ -85,26 +85,14 @@ Desarrollo: Julian Cervantes
 			</div>
 			<div class="col-xs-6 col-sm-2">
 				<a href="servicios/gestion">
-					<img src="img/s6.jpg" class="imagenes" alt="">
+					<img src="img/s3.jpg" class="imagenes" alt="">
 					<p class="titulos">Gestión Antifraude<br>y Anti soborno</p>
 				</a>
 			</div>
 			<div class="col-xs-6 col-sm-2">
-				<a href="http://www.segman.com/index.html">
-					<img src="img/s3.jpg" class="imagenes" alt="">
-					<p class="titulos">Due<br>Dilligence</p>
-				</a>
-			</div>
-			<div class="col-xs-6 col-sm-2">
-				<a href="servicios/fisica">
-					<img src="img/s5.jpg" class="imagenes" alt="">
-					<p class="titulos">Seguridad física<br>y transportación</p>
-				</a>
-			</div>
-			<div class="col-xs-6 col-sm-2">
-				<a href="servicios/cibernetica">
+				<a href="servicios/riesgos/">
 					<img src="img/s4.jpg" class="imagenes" alt="">
-					<p class="titulos">Seguridad<br>cibernética</p>
+					<p class="titulos">RIESGOS DE SEGURIDAD</p>
 				</a>
 			</div>
 		</div>

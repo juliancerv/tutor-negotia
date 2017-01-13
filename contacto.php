@@ -41,7 +41,7 @@ Desarrollo: Julian Cervantes
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 noespacio">
 				<p class="titulo">Contacto</p>
-				<p>Blvd. Eusebio Kino No.315, Torre Grand Kino, Piso 6<br> Lomas del Pitic, C.P. 83010, Hermosillo, Sonora, México.<br><br> contacto@tutornegotia.com</p>
+				<p class="unify">Blvd. Eusebio Kino No.315, Torre Grand Kino, Piso 6<br> Lomas del Pitic, C.P. 83010, Hermosillo, Sonora, México.<br><br> contacto@tutornegotia.com</p>
 				<form class="form-horizontal">
 					<div class="form-group">
 						<div class="col-sm-10">
